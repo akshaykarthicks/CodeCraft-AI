@@ -13,7 +13,7 @@
 
 <img width="1888" height="1059" alt="Screenshot 2025-08-14 141009" src="https://github.com/user-attachments/assets/f7cf3998-3ea5-4772-935e-d8035524a221" />
 
-## PROMT PAGE 
+## PROMPT PAGE 
 
 <img width="1808" height="1036" alt="Screenshot 2025-08-14 141018" src="https://github.com/user-attachments/assets/01c8989c-31bd-49d3-8ff9-e9172524683d" />
 
